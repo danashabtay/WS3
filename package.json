@@ -2,7 +2,7 @@
   "name": "workshop-3-2024-frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://danashabtay.github.io/PWS-Workshop3-FE/",
+  "homepage": "https://danashabtay.github.io/WS3/",
   "type": "module",
   "scripts": {
     "dev": "vite",
