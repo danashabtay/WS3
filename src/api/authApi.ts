@@ -6,7 +6,7 @@ interface Credentials {
     password: string;
 }
 
-const BASE_URL = "https://pws-workshop3-n6dc.onrender.com"
+const BASE_URL = "https://pws-workshop3-1.onrender.com"
 
 export const AuthApi = {
     login: async ({ username, password }: Credentials): Promise<APIStatus> => {
